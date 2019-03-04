@@ -6,3 +6,5 @@ cd ${current.project.path} sudo chmod +x mvnw
 cd ${current.project.path} 
 ./mvnw spring-boot:run &
 ======================================================================
+
+aws release
